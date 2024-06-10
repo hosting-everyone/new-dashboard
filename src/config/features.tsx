@@ -23,6 +23,16 @@ const { T } = createI18n(provider, {
     memes: 'Memes Time',
     'memes description': 'Send memes everyday',
   },
+  nl: {
+    music: 'Music Player',
+    'music description': 'Play music in Your Discord Server',
+    gaming: 'Gaming',
+    'gaming description': 'Enjoy playing games with your friends',
+    'reaction role': 'Reaction Role',
+    'reaction role description': 'Give user a role when clicking on a button',
+    memes: 'Memes Time',
+    'memes description': 'Send memes everyday',
+  },
   cn: {
     music: '音樂播放器',
     'music description': '在您的 Discord 服務器中播放音樂',
